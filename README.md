@@ -1,11 +1,9 @@
 # RTR105
 Datormācības kursa elektroniskā klade
-                                  ctrl+Alt+T -termināls
+                                 
+                                 
+                                 ctrl+Alt+T -termināls
 Ctrt+L - CLS
-
-
-
-
 burts - Tab (komanda, saraksts, burti)
 komanda (table) atslēgas vārds
 whoami
