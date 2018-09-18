@@ -86,3 +86,29 @@
    84  nano git-upload
    85  ls -l
    86  history > history_20180918.txt
+   87  ls
+   88  ls -l
+   89  chmod 764 git-upload
+   90  ls 
+   91  ls -l
+   92  ./git-upload
+   93  ./git-upload 20180918_14_05
+   94  nano git-upload
+   95  ./git-upload 20180918_14_05
+   96  nano git-upload
+   97  ./git-upload 20180918_14_05
+   98  nano git-upload
+   99  ./git-upload 20180918_14_05
+  100  cd ..
+  101  python
+  102  ipython
+  103  /RTR105$
+  104  /RTR105 ..
+  105  idle &
+  106  ls -l
+  107  history 
+  108  go to RTR105
+  109  pwd
+  110  cd RTR105
+  111  ls 
+  112  history > history_20180918.txt
