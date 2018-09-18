@@ -36,4 +36,10 @@ rm *3*.txt izdzēst noteikto failu
 rm failsl.txt2 -izdzēst absoluti visus failus tāda tipa
 nano README.md-ielūkošanās savā elektroniskajā kladē
 echo $PATH -parāda komnadrindas
+vars() -pārbaude python valodas sistēmā
+__builtins__.__doc__ -paskaidro faila dokumentāciju
+b = 10 - piešķiram burtam vertību 
+vars(b) - var apskatīt burta vērtību 
+a*b -sareizina dotos burtus
+burts = 'A'  ord(burts) 65 -kurš pēc kārtas burts hex(ord(burts))-'0x41'heska skaits  bin(ord(burts)) 0b1000001'-binars skaitlis
 
