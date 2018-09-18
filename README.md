@@ -34,3 +34,6 @@ chmod 700 - pievienot noteiktas atļaujas failam (lasīšana, rediģēšana...) 
 mv *.txt Music/   - parvieto failu uz citu mapi 
 rm *3*.txt izdzēst noteikto failu 
 rm failsl.txt2 -izdzēst absoluti visus failus tāda tipa
+nano README.md-ielūkošanās savā elektroniskajā kladē
+echo $PATH -parāda komnadrindas
+

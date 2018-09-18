@@ -1,0 +1,88 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  echo "mkdir Mape" > create_in.sh
+    4  esho -e "mkdir Mape" > create_in.sh
+    5  esho -e "mkdir Mape\ncd Mape" > create_in.sh
+    6  echo -e "mkdir Mape\ncd Mape" > create_in.sh
+    7  ls
+    8  cat create
+    9  pwd
+   10  echo $PATH
+   11  whereis cd
+   12  whereis firefox
+   13  pwd
+   14  PATH=
+   15  create_in.sh
+   16  echo $PATH
+   17  ls -l
+   18  cd
+   19  echo $PATH
+   20  ls -l
+   21  chmod 764 create_in.sh
+   22  ls -l
+   23  create 
+   24  create
+   25  create_in
+   26  pwd
+   27  ls -l
+   28  ls
+   29  create
+   30  pwd
+   31  echo $PATH
+   32  pwd
+   33  echo $PATH
+   34  PATH="PATH=
+
+   35  PATH="PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+
+   36  PATH="/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/user"
+   37  echo $PATH
+   38  ls -l
+   39  chmod 764 create_in.sh 
+   40  ls -l
+   41  create_in.sh 
+   42  ls -l
+   43  echo $PATH
+   44  ls
+   45  PATH=$PATH
+   46  PATH=$PATH:~/Mape
+   47  echo $PATH
+   48  /home/user/create_in.sh
+   49  ./create_in.sh 
+   50  cd Mape
+   51  ls
+   52  ls -l
+   53  cd..
+   54  cat create_in.sh
+   55  pwd
+   56  /home/user
+   57  pwd
+   58  cd
+   59  ..
+   60  cd..
+   61  cd ...
+   62  cd ..
+   63  pwds
+   64  pwd
+   65  whoami
+   66  nano create_in.sh
+   67  ls /user/bin/bash
+   68  ls -l
+   69  /bin$
+   70  cd
+   71  : /bin$
+   72  nano create_in.sh 
+   73  pwd
+   74  ls -l
+   75  git clone https://github.com/agija2000/RTR105
+   76  https://github.com/agija2202/RTR105
+   77  git clone https://github.com/agija2202/RTR105
+   78  ls -l
+   79  cd RTR105
+   80  pwd
+   81  ls -l
+   82  nano RTR10
+   83  nano README.md
+   84  nano git-upload
+   85  ls -l
+   86  history > history_20180918.txt
