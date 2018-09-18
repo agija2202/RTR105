@@ -42,4 +42,7 @@ b = 10 - piešķiram burtam vertību
 vars(b) - var apskatīt burta vērtību 
 a*b -sareizina dotos burtus
 burts = 'A'  ord(burts) 65 -kurš pēc kārtas burts hex(ord(burts))-'0x41'heska skaits  bin(ord(burts)) 0b1000001'-binars skaitlis
+echo $PATH 
+chmod 764 create_in.sh - failu atļauts lasīt rakstīt un apskatīt 
+create_in.sh 
 
