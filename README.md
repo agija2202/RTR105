@@ -45,4 +45,7 @@ burts = 'A'  ord(burts) 65 -kurš pēc kārtas burts hex(ord(burts))-'0x41'heska
 echo $PATH 
 chmod 764 create_in.sh - failu atļauts lasīt rakstīt un apskatīt 
 create_in.sh 
+idle & - parāda mapes 
+
+
 
