@@ -1,0 +1,36 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  NANO
+    4  nano
+    5  cd .. RTR105
+    6  cd RTR105
+    7  cd..
+    8  cd ..
+    9  cd RTR105
+   10  git clone https://github.com/agija2000/RTR105
+   11  \cd RTR105 git clone https://github.com/agija2000/RTR105
+   12  \cd RTR105
+   13  cd RTR105
+   14  /cd RTR105
+   15  quartus
+   16  git clone https://github.com/agija2202/RTR105
+   17  ls -l
+   18  pwd
+   19  cd ..
+   20  cd..
+   21  pwd
+   22  history
+   23  cd 
+   24  pwd
+   25  git clone https://github.com/agija2202/RTR105
+   26  ls -l
+   27  cd RTR105
+   28  firefox
+   29  idle &
+   30  >>>print 123
+   31  idle &
+   32  ls
+   33  ls -l
+   34  cat dgr_20181002
+   35  cat dgr_20181002.py
+   36  history > history_20181002
