@@ -20,4 +20,3 @@
    20  ls -l
    21  history > history_20181009
    22  history > history_20181009.py
-   23  history > history_20181002.py
