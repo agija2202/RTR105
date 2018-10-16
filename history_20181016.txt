@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  LS -L
+    4  ls -l
+    5  cd RTR105
+    6  -rm -rf RTR105
+    7  git clone://github.com/login/RTR105
+    8  cd RTR105
+    9  git clone https://github.com/login/RTR105
+   10  ls -l
+   11  git clone https://github.com/agija2202/RTR105
+   12  cd RTR105
+   13  $idle
+   14  &idle
+   15  idle&
+   16  git clone https://github.com/agija2202/RTR105
+   17  cd RTR105
+   18  idle&
+   19  ls -l
+   20  history
+   21  history > history_20181016.txt
