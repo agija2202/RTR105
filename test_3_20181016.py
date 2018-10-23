@@ -1,5 +1,5 @@
-n=5
-while n>0:
-    print('Lather')
-    print('Rinse')
-print('Dry off!')
+greet='Hello Bob'
+zap=greet.lower()
+print(greet)
+print(zap)
+print('Hi There'.lower())

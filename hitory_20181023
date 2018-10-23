@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/agija2202/RTR105
+    4  cd RTR105
+    5  idle 7
+    6  idle &
+    7  git clone https://github.com/agija22020/RTR105
+    8  cd RT
+    9  cd RTR105
+   10  idle&
+   11  history>hitory_20181023
