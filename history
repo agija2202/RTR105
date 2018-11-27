@@ -1,0 +1,12 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/agija2202/RTR105
+    4  cd RTR105
+    5  idel &
+    6  idle &
+    7  nano MonteCarlo.py
+    8  ls -l
+    9  ./git-upload/agija2202/MonteCarlo_20181127_14_44
+   10  ./git-upload/MonteCarlo_20181127_14_44
+   11  history > hitory
+   12  history > history
