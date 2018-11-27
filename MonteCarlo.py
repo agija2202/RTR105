@@ -1,8 +1,8 @@
-#coding : utf-8
+#coding : utf-8                                                            (valodas maiņa)
 #1. N vienmērīgi sadalīti skaitļi
 # N uniform devided numbers
 
-import sys
+import sys                                                                 (sinus funkcija)
 sys.path.append('/usr/local/anaconda3/lib/python3.6/site-packages')
 
 from numpy import random 
@@ -10,11 +10,11 @@ from numpy import random
 #pseido-gadījumu skaitļu ģenerātora grauds
 # random.seed(1)
 
-N = 10000
+N = 10000                                                                  (punktu skaits grafikā)
 
 x = random.uniform(0,5,N)
 '''
-#x = random.normal(2.5,5,N)
+#x = random.normal(2.5,5,N)                      (Iegūstam grafiku ar noteikto punktu(N) skaitu līdz ar to visi punkti ir viena krāsā un noteikt skaits ir attelots grafikā)
 k = [0,0,0,0,0]
 for i in range (N) :
     if x[i] < 1:
@@ -30,7 +30,7 @@ for i in range (N) :
 print(k)
 print(sum(k))
 '''
-
+(Iegustam punktu skaitu un sadalām to krāsu uz pusēm, sarkano un zaļo) 
 y = random.uniform(0,5,N)
 N1 = 0
 from matplotlib import pyplot as plt
@@ -44,6 +44,7 @@ for i in range(N):
         else:
             plt.plot(x[i],y[i],'ro')
 plt.show()
+(Parādās grafiks ar pun kitu skaitu un tad aizverot to mēs redezam ieguto skaitli kuram ir jābūt apmēram 12,5 )
 
 S_zinaamais = 5 * 5
 S_nezinaamais = 1. * S_zinaamais * N1/N
