@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 #2. labors
 #Ielādējam savu repozitāriju terminālā un islēdzam  idle & vidi kur sākam veidot funkciju
@@ -50,7 +45,6 @@ plt.show()
 #Parādā gala rezultātu komanda ar kuru pieprasām parādīt rezultātu
 
 
-# In[ ]:
 
 
 
